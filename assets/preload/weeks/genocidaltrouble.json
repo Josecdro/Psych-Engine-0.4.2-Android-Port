@@ -1,0 +1,30 @@
+{
+	"storyName": "Genocidal Trouble",
+	"difficulties": "genocide",
+	"hideFreeplay": false,
+	"weekBackground": "genocidaltrouble",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"genocidal-trouble",
+			"chara",
+			[
+				100,
+				100,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Genocidal Trouble"
+}
