@@ -3,45 +3,45 @@
 		{
 			"loop": false,
 			"offsets": [
-				59,
-				0
+				18,
+				-21
 			],
 			"anim": "singLEFT",
 			"fps": 24,
-			"name": "chara left",
+			"name": "undyne left",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-17,
-				24
+				-67,
+				-27
 			],
 			"anim": "singUP",
 			"fps": 24,
-			"name": "chara up",
+			"name": "undyne up",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				19,
-				0
+				32,
+				-62
 			],
 			"anim": "singDOWN",
 			"fps": 24,
-			"name": "chara down",
+			"name": "undyne down",
 			"indices": []
 		},
 		{
 			"loop": false,
 			"offsets": [
-				-18,
-				0
+				-73,
+				-52
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "chara right",
+			"name": "undyne right",
 			"indices": []
 		},
 		{
@@ -52,17 +52,17 @@
 			],
 			"anim": "idle",
 			"fps": 24,
-			"name": "chara idle",
+			"name": "undyne idle",
 			"indices": []
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/chara",
+	"image": "characters/undyne",
 	"position": [
-		-40,
-		130
+		-390,
+		-280
 	],
-	"healthicon": "chara",
+	"healthicon": "undyne",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
@@ -70,8 +70,8 @@
 		255
 	],
 	"camera_position": [
-		-170,
-		210
+		-90,
+		300
 	],
 	"sing_duration": 6.1,
 	"scale": 1

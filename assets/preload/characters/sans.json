@@ -1,79 +1,78 @@
 {
-	"mechanic": ["KR"],
 	"animations": [
 		{
 			"offsets": [
-				109,
-				2
+				86,
+				4
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "SANS LEFT NOTE"
+			"name": "sans left"
 		},
 		{
 			"offsets": [
-				-8,
-				-63
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "SANS DOWN NOTE"
-		},
-		{
-			"offsets": [
-				8,
-				15
+				-38,
+				41
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "SANS UP "
+			"name": "sans up"
 		},
 		{
 			"offsets": [
-				-13,
-				-24
+				43,
+				4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "sans down"
+		},
+		{
+			"offsets": [
+				-38,
+				2
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "SANS RIGHT NOTE"
+			"name": "sans right"
 		},
 		{
 			"offsets": [
-				-5,
-				-3
+				0,
+				0
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
-			"loop": true,
-			"name": "SANS Idle"
+			"indices": [],
+			"name": "sans idle"
 		}
 	],
-	"no_antialiasing": false,
-	"image": "characters/sans_assets",
+	"no_antialiasing": true,
+	"image": "characters/sans",
 	"position": [
-		0,
-		350
+		-150,
+		170
 	],
 	"healthicon": "sans",
 	"flip_x": false,
 	"healthbar_colors": [
-		175,
-		179,
-		230
+		255,
+		255,
+		255
 	],
 	"camera_position": [
-		210,
-		0
+		-190,
+		170
 	],
-	"sing_duration": 4,
+	"sing_duration": 6.1,
 	"scale": 1
 }
