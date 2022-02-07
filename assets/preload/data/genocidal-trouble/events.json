@@ -1,0 +1,169 @@
+{
+	"song": {
+		"speed": 3.2,
+		"stage": "battle",
+		"player1": "heart",
+		"player2": "sans",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				105205.479452055,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				106849.315068493,
+				[
+					[
+						"Change Character",
+						"dad",
+						"chara"
+					]
+				]
+			],
+			[
+				111780.821917808,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124931.506849315,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				131506.849315069,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				133150.684931507,
+				[
+					[
+						"Change Character",
+						"dad",
+						"undyne"
+					]
+				]
+			],
+			[
+				236712.328767124,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				238356.164383562,
+				[
+					[
+						"Change Character",
+						"dad",
+						"chara"
+					]
+				]
+			],
+			[
+				289315.068493151,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				290958.904109589,
+				[
+					[
+						"Change Character",
+						"dad",
+						"papyrus"
+					]
+				]
+			],
+			[
+				324121.554711999,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				347254.084832481,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				405085.410133685,
+				[
+					[
+						"Static",
+						"",
+						""
+					]
+				]
+			],
+			[
+				406621.554711998,
+				[
+					[
+						"Change Character",
+						"dad",
+						"chara"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 146,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "genocidal-trouble"
+	}
+}
