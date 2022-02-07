@@ -2,185 +2,152 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				-6,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "idle"
 		},
 		{
 			"offsets": [
-				5,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-10,
-				-17
+				-11,
+				-29
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "Alex R Down"
 		},
 		{
 			"offsets": [
-				-29,
-				28
+				-19,
+				18
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "Alex R Up"
 		},
 		{
 			"offsets": [
-				-48,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				7,
-				19
+				-43,
+				9
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "Miss left"
 		},
 		{
 			"offsets": [
-				-15,
+				-4,
 				-19
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "Miss Down"
 		},
 		{
 			"offsets": [
-				-36,
-				27
+				-16,
+				37
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "Miss up"
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				92,
+				14
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "Miss Rigth"
 		},
 		{
 			"offsets": [
-				-3,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				37,
-				11
+				151,
+				3
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF dies"
+			"name": "death"
 		},
 		{
 			"offsets": [
-				37,
-				5
+				81,
+				1
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF Dead Loop"
+			"name": "Alex loop"
 		},
 		{
 			"offsets": [
-				37,
-				69
+				276,
+				1
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
-			"name": "BF Dead confirm"
+			"name": "ALEX confirm"
 		},
 		{
 			"offsets": [
-				-53,
-				-3
+				61,
+				7
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
 			"indices": [],
-			"name": "boyfriend dodge"
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Alex R rifgth"
+		},
+		{
+			"offsets": [
+				-12,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Alex R Left"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/ALEX_R",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
+	"healthicon": "alexr",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		164,
+		100,
+		88
 	],
 	"camera_position": [
-		0,
+		-330,
 		0
 	],
 	"sing_duration": 4,

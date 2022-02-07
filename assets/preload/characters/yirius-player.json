@@ -2,185 +2,152 @@
 	"animations": [
 		{
 			"offsets": [
-				-5,
-				0
+				-6,
+				-1
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF idle dance"
+			"name": "Yirius Idle"
 		},
 		{
 			"offsets": [
-				5,
-				-6
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "BF NOTE LEFT0"
-		},
-		{
-			"offsets": [
-				-10,
-				-17
+				-50,
+				-26
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "Yirius DOWN"
 		},
 		{
 			"offsets": [
-				-29,
-				28
+				-20,
+				-11
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "Yirius U"
 		},
 		{
 			"offsets": [
-				-48,
-				-7
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "BF NOTE RIGHT0"
-		},
-		{
-			"offsets": [
-				7,
-				19
+				-88,
+				-2
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFTmiss",
 			"indices": [],
-			"name": "BF NOTE LEFT MISS"
+			"name": "Miss L"
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				-31,
+				-15
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWNmiss",
 			"indices": [],
-			"name": "BF NOTE DOWN MISS"
+			"name": "Miss D"
 		},
 		{
 			"offsets": [
-				-36,
-				27
+				-11,
+				8
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUPmiss",
 			"indices": [],
-			"name": "BF NOTE UP MISS"
+			"name": "Miss U"
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				10,
+				-4
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHTmiss",
 			"indices": [],
-			"name": "BF NOTE RIGHT MISS"
+			"name": "Miss R"
 		},
 		{
 			"offsets": [
-				-3,
-				5
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "hey",
-			"indices": [],
-			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				37,
-				11
+				30,
+				-3
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "firstDeath",
 			"indices": [],
-			"name": "BF dies"
+			"name": "Yirius Death"
 		},
 		{
 			"offsets": [
-				37,
-				5
+				17,
+				-7
 			],
 			"loop": true,
 			"fps": 24,
 			"anim": "deathLoop",
 			"indices": [],
-			"name": "BF Dead Loop"
+			"name": "Yirius Loop"
 		},
 		{
 			"offsets": [
-				37,
-				69
+				159,
+				-7
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
-			"name": "BF Dead confirm"
+			"name": "Yirius Confirm"
 		},
 		{
 			"offsets": [
-				-53,
-				-3
+				-105,
+				-1
 			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
 			"indices": [],
-			"name": "boyfriend dodge"
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Yirius LEFT"
+		},
+		{
+			"offsets": [
+				-14,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Yirius R"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/YIRIUS",
 	"position": [
 		0,
 		350
 	],
-	"healthicon": "bf",
-	"flip_x": true,
+	"healthicon": "yirius-player",
+	"flip_x": false,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		104,
+		230,
+		197
 	],
 	"camera_position": [
-		0,
+		-330,
 		0
 	],
 	"sing_duration": 4,

@@ -1,8 +1,9 @@
 {
+	"mechanic": ["lvl20"],
 	"animations": [
 		{
 			"offsets": [
-				-5,
+				-7,
 				0
 			],
 			"loop": false,
@@ -13,8 +14,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				-10,
+				15
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +25,8 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-17
+				-5,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +36,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				28
+				-31,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +47,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				-53,
+				-13
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +58,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				-13,
+				24
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +69,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				-29,
+				1
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +80,8 @@
 		},
 		{
 			"offsets": [
-				-36,
-				27
+				-25,
+				-11
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +91,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				-16,
+				-9
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,25 +102,14 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				-30,
+				-3
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "hey",
 			"indices": [],
 			"name": "BF HEY"
-		},
-		{
-			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
 		},
 		{
 			"offsets": [
@@ -153,31 +143,20 @@
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-53,
-				-3
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/CHARA_B",
 	"position": [
 		0,
-		350
+		300
 	],
-	"healthicon": "bf",
+	"healthicon": "chara-black",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		8,
+		8,
+		8
 	],
 	"camera_position": [
 		0,

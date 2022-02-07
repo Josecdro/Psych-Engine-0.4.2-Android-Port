@@ -1,4 +1,5 @@
 {
+	"mechanic": ["lvl20"],
 	"animations": [
 		{
 			"offsets": [
@@ -13,8 +14,8 @@
 		},
 		{
 			"offsets": [
-				5,
-				-6
+				158,
+				-17
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +25,8 @@
 		},
 		{
 			"offsets": [
-				-10,
-				-17
+				115,
+				-67
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +36,8 @@
 		},
 		{
 			"offsets": [
-				-29,
-				28
+				71,
+				-46
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +47,8 @@
 		},
 		{
 			"offsets": [
-				-48,
-				-7
+				50,
+				-33
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +58,8 @@
 		},
 		{
 			"offsets": [
-				7,
-				19
+				136,
+				-6
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +69,8 @@
 		},
 		{
 			"offsets": [
-				-15,
-				-19
+				139,
+				-66
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +80,8 @@
 		},
 		{
 			"offsets": [
-				-36,
-				27
+				81,
+				-30
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +91,8 @@
 		},
 		{
 			"offsets": [
-				-44,
-				22
+				85,
+				-59
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,8 +102,8 @@
 		},
 		{
 			"offsets": [
-				-3,
-				5
+				2,
+				-23
 			],
 			"loop": false,
 			"fps": 24,
@@ -112,19 +113,8 @@
 		},
 		{
 			"offsets": [
-				-4,
-				0
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "scared",
-			"indices": [],
-			"name": "BF idle shaking"
-		},
-		{
-			"offsets": [
-				37,
-				11
+				81,
+				-68
 			],
 			"loop": false,
 			"fps": 24,
@@ -134,8 +124,8 @@
 		},
 		{
 			"offsets": [
-				37,
-				5
+				77,
+				-68
 			],
 			"loop": true,
 			"fps": 24,
@@ -145,39 +135,28 @@
 		},
 		{
 			"offsets": [
-				37,
-				69
+				77,
+				-11
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "deathConfirm",
 			"indices": [],
 			"name": "BF Dead confirm"
-		},
-		{
-			"offsets": [
-				-53,
-				-3
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "dodge",
-			"indices": [],
-			"name": "boyfriend dodge"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/CHARA_P",
 	"position": [
-		0,
-		350
+		20,
+		270
 	],
-	"healthicon": "bf",
+	"healthicon": "chara",
 	"flip_x": true,
 	"healthbar_colors": [
-		49,
-		176,
-		209
+		41,
+		41,
+		68
 	],
 	"camera_position": [
 		0,
