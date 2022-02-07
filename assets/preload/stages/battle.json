@@ -1,0 +1,9 @@
+{
+	"directory": "triple-path",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [140, 650],
+	"girlfriend": [0, 0],
+	"opponent": [0, -300]
+}
