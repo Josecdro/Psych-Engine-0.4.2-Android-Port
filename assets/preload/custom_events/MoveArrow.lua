@@ -13,7 +13,12 @@ end
 function onEvent(name, value1, value2)
     if name == "MoveArrow" then
         local tableee=mysplit(value2,", "); -- Splits value1 into a table
-        value1 = tonumber(value1)
+        value1 = tonumber(value1);
+        tableee[1] = tonumber(tableee[1]);
+        tableee[2] = tonumber(tableee[2]);
+        tableee[3] = tonumber(tableee[3]);
+        tableee[4] = tonumber(tableee[4]);
+        tableee[5] = tonumber(tableee[5]);
 
         if value1 < 4 then
             notePosX = getPropertyFromGroup('opponentStrums', value1, 'x');
@@ -24,26 +29,13 @@ function onEvent(name, value1, value2)
             notePosY = getPropertyFromGroup('playerStrums', notee, 'y');
         end
 
-        if tableee[1] == "return" then
-            tableee[1] = 0;
-        else
-            newnotePosX = notePosX + tableee[1];
-        end
-        if tableee[2] == "return" then
-            tableee[2] = 0;
-        else
-            newnotePosY = notePosY + tableee[2];
-        end
+        newnotePosX = notePosX + tableee[1];
+        newnotePosY = notePosY + tableee[2];
 
         duration = tableee[5];
         rotation = tableee[3];
         opacity = tableee[4];
 
-        tableee[1] = tonumber(tableee[1]);
-        tableee[2] = tonumber(tableee[2]);
-        tableee[3] = tonumber(tableee[3]);
-        tableee[4] = tonumber(tableee[4]);
-        tableee[5] = tonumber(tableee[5]);
 
         if value1 == 0 then
             noteTweenX("x1",0,newnotePosX,duration,"quartInOut");
