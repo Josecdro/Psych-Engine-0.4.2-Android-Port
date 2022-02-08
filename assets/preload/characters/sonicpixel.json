@@ -3,76 +3,76 @@
 		{
 			"offsets": [
 				1,
-				50
+				-120
 			],
 			"loop": false,
 			"anim": "idle",
 			"fps": 24,
-			"name": "Angry Senpai Idle instance",
+			"name": "Sonic_EXE_Pixel idle",
 			"indices": []
 		},
 		{
 			"offsets": [
 				-15,
-				97
+				-123
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Angry Senpai UP NOTE"
+			"name": "Sonic_EXE_Pixel NOTE UP"
 		},
 		{
 			"offsets": [
-				-60,
-				50
+				-20,
+				-120
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Angry Senpai RIGHT NOTE"
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE LEFT"
 		},
 		{
 			"offsets": [
-				50,
-				60
+				60,
+				-120
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Angry Senpai LEFT NOTE"
+			"name": "Sonic_EXE_Pixel NOTE RIGHT"
 		},
 		{
 			"offsets": [
-				34,
-				60
+				14,
+				-120
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "Angry Senpai DOWN NOTE"
+			"name": "Sonic_EXE_Pixel Sonic_EXE_Pixel NOTE DOWN"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/senpai",
+	"image": "characters/Sonic_EXE_Pixel",
 	"position": [
 		150,
 		360
 	],
-	"healthicon": "icon-monika.exe",
+	"healthicon": "icon-sonicexe",
 	"flip_x": false,
 	"healthbar_colors": [
-		107,
-		160,
-		77
+		0,
+		88,
+		183
 	],
 	"camera_position": [
-		-240,
+		-80,
 		-330
 	],
 	"sing_duration": 4,
-	"scale": 6
+	"scale": 10
 }

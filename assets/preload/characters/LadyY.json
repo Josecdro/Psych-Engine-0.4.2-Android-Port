@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				103
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Yuri right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-45,
+				99
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Yuri down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				101
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Yuri up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				100
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Yuri left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				100
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Yuri idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/LadyY",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ladyy",
+	"flip_x": false,
+	"healthbar_colors": [
+		158,
+		114,
+		210
+	],
+	"camera_position": [
+		-60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

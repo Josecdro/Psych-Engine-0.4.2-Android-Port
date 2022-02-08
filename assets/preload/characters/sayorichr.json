@@ -1,0 +1,153 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				208,
+				180
+			],
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Sayori left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				213,
+				191
+			],
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Sayori down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				207,
+				183
+			],
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Sayori up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				225,
+				183
+			],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Sayori right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				180
+			],
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Sayori idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-loop",
+			"fps": 24,
+			"name": "Dad idle dance",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				291,
+				141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "Sayori haha"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sayorichr",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icon-sayori",
+	"flip_x": false,
+	"healthbar_colors": [
+		149,
+		224,
+		250
+	],
+	"camera_position": [
+		-60,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}
