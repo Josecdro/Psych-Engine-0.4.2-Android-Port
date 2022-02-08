@@ -1,0 +1,48 @@
+{
+	"songs": [
+		[
+			"tormentormom",
+			"evil mom",
+			[
+				255,
+				233,
+				255
+			]
+		],
+		[
+			"neurosesmom",
+			"evil mom",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"dischargemom",
+			"evil mom",
+			[
+				146,
+				0,
+				53
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "test",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "help her",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
