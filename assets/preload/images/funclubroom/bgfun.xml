@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgfun.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fun dance0000" x="0" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0001" x="0" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0002" x="0" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0003" x="0" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0004" x="400" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0005" x="400" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0006" x="400" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0007" x="400" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0008" x="800" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0009" x="800" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0010" x="800" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0011" x="800" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0012" x="1200" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0013" x="1200" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0014" x="1200" y="0" width="400" height="450"/>
+	<SubTexture name="fun dance0015" x="1200" y="10" width="400" height="450"/>
+</TextureAtlas>
