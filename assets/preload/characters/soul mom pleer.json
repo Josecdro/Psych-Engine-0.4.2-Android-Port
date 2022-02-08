@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-130,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "mom LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				214,
+				18
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "mom RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				91
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "mom UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-98,
+				-58
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "mom DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 28,
+			"anim": "idle",
+			"indices": [],
+			"name": "idl mom"
+		},
+		{
+			"offsets": [
+				700,
+				90
+			],
+			"loop": false,
+			"fps": 33,
+			"anim": "hey",
+			"indices": [],
+			"name": "mom wkid"
+		},
+		{
+			"offsets": [
+				160,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "mom skid"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soul mom pleer",
+	"position": [
+		140,
+		-270
+	],
+	"healthicon": "evil mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		310,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

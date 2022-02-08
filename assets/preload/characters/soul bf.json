@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-190,
+				-206
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Soul BF Idle"
+		},
+		{
+			"offsets": [
+				-190,
+				-223
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Soul Bf Left"
+		},
+		{
+			"offsets": [
+				-208,
+				-215
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Soul Bf Right"
+		},
+		{
+			"offsets": [
+				-159,
+				-220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Soul BF Up"
+		},
+		{
+			"offsets": [
+				-202,
+				-255
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Soul Bf Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/soul_bf",
+	"position": [
+		-180,
+		-290
+	],
+	"healthicon": "evil",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		190,
+		390
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
