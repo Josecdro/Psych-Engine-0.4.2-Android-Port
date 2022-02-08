@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(After the final battle of soul mom and mom, soul mom got into some kind of universe, only one gloomy lantern illuminated her)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what is this place?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "no",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(Only a gloomy silhouette was far away, he glared at soul mom)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": ". . .",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you... sing"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you why are we the same skin color?"
+		},
+		{
+			"speed": 0.5,
+			"portrait": ". . .",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "evil",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Okay let's go\rthe song has begun"
+		}
+	]
+}
