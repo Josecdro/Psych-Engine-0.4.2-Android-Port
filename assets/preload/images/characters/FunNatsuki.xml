@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FunNatsuki.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Nat Idle0000" x="0" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0001" x="0" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0002" x="800" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0003" x="800" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0004" x="1600" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0005" x="1600" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0006" x="2400" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0007" x="2400" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0008" x="3200" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0009" x="3200" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0010" x="4000" y="0" width="800" height="800" />
+	<SubTexture name="Nat Idle0011" x="4000" y="0" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0000" x="2400" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0001" x="3200" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0002" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0003" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0004" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0005" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0006" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0007" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0008" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0009" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0010" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0011" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note DOWN0012" x="4000" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0000" x="2400" y="1600" width="800" height="800"/>
+	<SubTexture name="Nat Sing Note Left0001" x="3200" y="1600" width="800" height="800"/>
+	<SubTexture name="Nat Sing Note Left0002" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0003" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0004" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0005" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0006" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0007" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0008" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0009" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0010" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0011" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Left0012" x="4000" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0000" x="0" y="1600" width="800" height="800"/>
+	<SubTexture name="Nat Sing Note Right0001" x="800" y="1600" width="800" height="800"/>
+	<SubTexture name="Nat Sing Note Right0002" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0003" x="1600" y="1600" width="800" height="800"/>
+	<SubTexture name="Nat Sing Note Right0004" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0005" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0006" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0007" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0008" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0009" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0010" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0011" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Right0012" x="1600" y="1600" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0000" x="0" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0001" x="800" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0002" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0003" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0004" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0005" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0006" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0007" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0008" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0009" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0010" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0011" x="1600" y="800" width="800" height="800" />
+	<SubTexture name="Nat Sing Note Up0012" x="1600" y="800" width="800" height="800" />
+</TextureAtlas>
