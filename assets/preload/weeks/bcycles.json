@@ -1,0 +1,31 @@
+{
+	"storyName": "...",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "cycles",
+	"weekBefore": "afestival",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Cycles",
+			"LordX",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"weekName": "week2"
+}
