@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Soul_BF.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Soul BF Idle0000" x="0" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0001" x="109" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0002" x="218" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0003" x="327" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0004" x="436" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0005" x="545" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0006" x="654" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0007" x="763" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0008" x="872" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0009" x="0" y="155" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0010" x="109" y="155" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0011" x="218" y="155" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0012" x="327" y="155" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0013" x="436" y="155" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0014" x="545" y="155" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0015" x="0" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0016" x="0" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0017" x="0" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Idle0018" x="0" y="0" width="109" height="155"/>
+	<SubTexture name="Soul BF Up0000" x="654" y="155" width="157" height="120"/>
+	<SubTexture name="Soul BF Up0001" x="654" y="155" width="157" height="120"/>
+	<SubTexture name="Soul BF Up0002" x="811" y="155" width="157" height="120"/>
+	<SubTexture name="Soul BF Up0003" x="811" y="155" width="157" height="120"/>
+	<SubTexture name="Soul BF Up0004" x="0" y="310" width="157" height="120"/>
+	<SubTexture name="Soul BF Up0005" x="0" y="310" width="157" height="120"/>
+	<SubTexture name="Soul BF Up0006" x="0" y="310" width="157" height="120"/>
+	<SubTexture name="Soul Bf Down0000" x="157" y="310" width="85" height="120"/>
+	<SubTexture name="Soul Bf Down0001" x="157" y="310" width="85" height="120"/>
+	<SubTexture name="Soul Bf Down0002" x="242" y="310" width="85" height="120"/>
+	<SubTexture name="Soul Bf Down0003" x="242" y="310" width="85" height="120"/>
+	<SubTexture name="Soul Bf Down0004" x="327" y="310" width="85" height="120"/>
+	<SubTexture name="Soul Bf Down0005" x="327" y="310" width="85" height="120"/>
+	<SubTexture name="Soul Bf Left0000" x="412" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0001" x="412" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0002" x="515" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0003" x="515" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0004" x="618" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0005" x="618" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0006" x="618" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0007" x="618" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0008" x="618" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0009" x="618" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Left0010" x="618" y="310" width="103" height="140"/>
+	<SubTexture name="Soul Bf Right0000" x="721" y="310" width="94" height="148"/>
+	<SubTexture name="Soul Bf Right0001" x="721" y="310" width="94" height="148"/>
+	<SubTexture name="Soul Bf Right0002" x="815" y="310" width="94" height="148"/>
+	<SubTexture name="Soul Bf Right0003" x="815" y="310" width="94" height="148"/>
+	<SubTexture name="Soul Bf Right0004" x="909" y="310" width="94" height="148"/>
+	<SubTexture name="Soul Bf Right0005" x="909" y="310" width="94" height="148"/>
+</TextureAtlas>

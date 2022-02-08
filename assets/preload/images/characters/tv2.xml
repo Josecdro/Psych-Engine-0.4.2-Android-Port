@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tv2.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="tv20000" x="0" y="0" width="706" height="545" frameX="0" frameY="-3" frameWidth="712" frameHeight="552"/>
+	<SubTexture name="tv20001" x="706" y="0" width="706" height="545" frameX="-1" frameY="0" frameWidth="712" frameHeight="552"/>
+	<SubTexture name="tv20002" x="0" y="0" width="706" height="545" frameX="-4" frameY="-5" frameWidth="712" frameHeight="552"/>
+	<SubTexture name="tv20003" x="706" y="0" width="706" height="545" frameX="0" frameY="-3" frameWidth="712" frameHeight="552"/>
+	<SubTexture name="tv20004" x="0" y="0" width="706" height="545" frameX="-6" frameY="-7" frameWidth="712" frameHeight="552"/>
+	<SubTexture name="tv20005" x="706" y="0" width="706" height="545" frameX="-1" frameY="-2" frameWidth="712" frameHeight="552"/>
+</TextureAtlas>
